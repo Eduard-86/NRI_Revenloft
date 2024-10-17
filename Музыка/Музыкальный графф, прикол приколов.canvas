@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"f104253bad33ac12","type":"group","x":-600,"y":600,"width":680,"height":720,"label":"Группа без названия"},
+		{"id":"5026b73394206433","type":"link","url":"https://www.youtube.com/watch?v=R602-QupieM&t=2035s","x":-720,"y":-520,"width":640,"height":360},
+		{"id":"cc74d64e36104ad0","type":"text","text":"Грусная очень грусная музыка","x":-260,"y":-720,"width":292,"height":50},
+		{"id":"2ebaf010b81e72a4","type":"text","text":"Тоскливый готичный прикол","x":590,"y":-730,"width":250,"height":60},
+		{"id":"1fea9ed7d23c6022","type":"link","url":"https://www.youtube.com/watch?v=NlqAOdT0BOc","x":520,"y":-520,"width":640,"height":360},
+		{"id":"90170ca4ad016a5b","type":"text","text":"**Голос**","x":111,"y":-900,"width":249,"height":120},
+		{"id":"73dc28dbe476dde5","type":"text","text":"Повседневная","x":-256,"y":-80,"width":170,"height":58},
+		{"id":"21eafe45209bf7af","type":"link","url":"https://www.youtube.com/watch?v=tHPGFsu1fHo&t=975s","x":-860,"y":100,"width":640,"height":360},
+		{"id":"98749bd1813d1c43","type":"link","url":"https://www.youtube.com/watch?v=yJmHjMbloCI&t=6475s","x":-1620,"y":100,"width":640,"height":360},
+		{"id":"40fd43f92cf19f15","type":"text","text":"Веселая","x":-1230,"y":-82,"width":250,"height":60},
+		{"id":"6d2f5f51d794e2ea","type":"text","text":"Аутентичная","x":-48,"y":-80,"width":161,"height":60},
+		{"id":"191f3b27741a84e5","type":"link","url":"https://www.youtube.com/watch?v=st-ZjwCy4uo","x":-577,"y":940,"width":640,"height":360},
+		{"id":"e89504a2b2492790","type":"file","file":"Изображея/ОбложкаМузыка.png","x":-457,"y":700,"width":397,"height":353},
+		{"id":"646190d75203f9ab","x":200,"y":520,"width":640,"height":360,"type":"link","url":"https://youtu.be/fXA8zHLdYF0"},
+		{"id":"036f242b3ccbbd04","type":"link","url":"https://www.youtube.com/watch?v=w6Uu1AAvSGo&t=2426s","x":920,"y":520,"width":640,"height":360},
+		{"id":"126fd9bdafbaf76a","x":1715,"y":520,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=IirmvJD6Yqw"},
+		{"id":"3be1b73180ddfef2","type":"text","text":"Гнетущая","x":520,"y":-80,"width":250,"height":60},
+		{"id":"26581f74a9ca9deb","x":1380,"y":-730,"width":250,"height":60,"type":"text","text":"Сказочный эмбиент"}
+	],
+	"edges":[
+		{"id":"78f0aad5dc54c0b8","fromNode":"cc74d64e36104ad0","fromSide":"bottom","toNode":"5026b73394206433","toSide":"top"},
+		{"id":"818ea6e5309d2d3d","fromNode":"2ebaf010b81e72a4","fromSide":"bottom","toNode":"1fea9ed7d23c6022","toSide":"top"},
+		{"id":"f2535d1838165be4","fromNode":"73dc28dbe476dde5","fromSide":"bottom","toNode":"21eafe45209bf7af","toSide":"top"},
+		{"id":"28d27459bd443245","fromNode":"6d2f5f51d794e2ea","fromSide":"bottom","toNode":"21eafe45209bf7af","toSide":"right"},
+		{"id":"f765969f9d9d867f","fromNode":"3be1b73180ddfef2","fromSide":"bottom","toNode":"036f242b3ccbbd04","toSide":"top"},
+		{"id":"7f93792a6b3fdee1","fromNode":"90170ca4ad016a5b","fromSide":"bottom","toNode":"036f242b3ccbbd04","toSide":"top"},
+		{"id":"603a487337a1bd8b","fromNode":"90170ca4ad016a5b","fromSide":"bottom","toNode":"f104253bad33ac12","toSide":"top"},
+		{"id":"1965bd85de6010ca","fromNode":"6d2f5f51d794e2ea","fromSide":"bottom","toNode":"f104253bad33ac12","toSide":"top"},
+		{"id":"663033316042508e","fromNode":"3be1b73180ddfef2","fromSide":"bottom","toNode":"f104253bad33ac12","toSide":"top"},
+		{"id":"ef935dd2a808571a","fromNode":"40fd43f92cf19f15","fromSide":"bottom","toNode":"98749bd1813d1c43","toSide":"top"},
+		{"id":"770c06c1f21ddb37","fromNode":"73dc28dbe476dde5","fromSide":"bottom","toNode":"98749bd1813d1c43","toSide":"top"},
+		{"id":"87b5ee634870affd","fromNode":"3be1b73180ddfef2","fromSide":"bottom","toNode":"126fd9bdafbaf76a","toSide":"top"},
+		{"id":"262b51e771495914","fromNode":"2ebaf010b81e72a4","fromSide":"bottom","toNode":"126fd9bdafbaf76a","toSide":"top"},
+		{"id":"e639c8ff9531253a","fromNode":"26581f74a9ca9deb","fromSide":"bottom","toNode":"126fd9bdafbaf76a","toSide":"top"},
+		{"id":"50d2a5c37fa0e37a","fromNode":"3be1b73180ddfef2","fromSide":"bottom","toNode":"646190d75203f9ab","toSide":"top"},
+		{"id":"d3fbe2adba927ea6","fromNode":"cc74d64e36104ad0","fromSide":"bottom","toNode":"646190d75203f9ab","toSide":"top"},
+		{"id":"e30aa9a0f0dad19b","fromNode":"73dc28dbe476dde5","fromSide":"bottom","toNode":"646190d75203f9ab","toSide":"top"}
+	]
+}
